@@ -1,1 +1,2 @@
-# Source code for cotton field simulation
+# Cotton Field Simulation Engine
+Source code for cotton field simulation
